@@ -15,6 +15,7 @@
 2. cd into the `data` directory and run `download.sh`
 3. Push your solution's source code to your forked repo
 4. Append to this README file on how one can run your solution against the dataset
+5. Add results (images, plots, videos, etc) in `results` directory
 
 ### Running
  TODO
