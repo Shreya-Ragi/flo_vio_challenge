@@ -12,7 +12,7 @@
 
 ### Instructions:
 1. Fork this repo
-2. Download the dataset into `data` directory
+2. cd into the `data` directory and run `download.sh`
 3. Push your solution's source code to your forked repo
 4. Append to this README file on how one can run your solution against the dataset
 
