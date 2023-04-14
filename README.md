@@ -1,4 +1,4 @@
-## Flo VIO Experiment
+## Flo VIO challenge
 
 - To get a working visual odometry solution for a given dataset
 
