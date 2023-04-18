@@ -19,6 +19,7 @@
 
 ### Important:
 [Apriltag info for calibration dataset](https://github.com/ethz-asl/kalibr/wiki/downloads#calibration-targets)
+   - Refer the target labelled `Aprilgrid 6x6 0.8x0.8 m (A0 page)`
 
 
 ### Running
