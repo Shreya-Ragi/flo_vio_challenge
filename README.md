@@ -17,5 +17,9 @@
 4. Append to this README file on how one can run your solution against the dataset
 5. Add results (images, plots, videos, etc) in `results` directory
 
+### Important:
+[Apriltag info for calibration dataset](https://github.com/ethz-asl/kalibr/wiki/downloads#calibration-targets)
+
+
 ### Running
  TODO
